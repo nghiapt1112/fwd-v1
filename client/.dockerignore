@@ -1,0 +1,7 @@
+# Tells Docker to ignore these files and directories when building the image.
+
+.git
+node_modules
+npm-debug
+build
+package-lock.json
